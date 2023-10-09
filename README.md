@@ -19,3 +19,6 @@ El proyecto sigue los principios de la Programación Orientada a Objetos (OOP), 
 Para garantizar la calidad del código y la funcionalidad del juego, utilizamos NUnit como framework de pruebas unitarias. NUnit nos permite escribir y ejecutar pruebas de manera eficiente y automatizada. Las pruebas unitarias se encuentran en el proyecto de pruebas unitarias y se ejecutan regularmente para verificar que el código funcione según lo previsto.
 
 ## Desarrollo Dirigido por Pruebas (TDD)
+
+El Desarrollo Dirigido por Pruebas (TDD) es una metodología de desarrollo que se utiliza en este proyecto. Esto significa que primero escribimos pruebas unitarias para una funcionalidad antes de implementarla. Luego, escribimos el código necesario para que las pruebas pasen. Este enfoque garantiza que el código esté bien probado y que cumpla con los requisitos especificados.
+
